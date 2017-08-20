@@ -1,0 +1,8 @@
+= James I can also code HAHA
+
+:hp-image: /covers/cover.png
+:published_at: 2017-08-20
+:hp-tags: Hubpress, Jameshome, Tedkim,
+:hp-alt-title: My English Title
+
+
