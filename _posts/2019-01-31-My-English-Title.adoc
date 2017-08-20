@@ -1,9 +1,0 @@
-= I can also code James Home!
-:hp-image: http://github.com/<k7k7kt7>/<k7k7kt7.github.io>/images/<Adobe Spark (1).jpg>
-:published_at: 2019-01-31
-:hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title: My English Title
-
-
-See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-
