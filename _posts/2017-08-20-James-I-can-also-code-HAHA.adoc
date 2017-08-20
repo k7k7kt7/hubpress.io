@@ -1,5 +1,7 @@
 = James I can also code HAHA
 
+Hey guys this is my new blog!
+
 :hp-image: /covers/cover.png
 :published_at: 2017-08-20
 :hp-tags: Hubpress, Jameshome, Tedkim,
