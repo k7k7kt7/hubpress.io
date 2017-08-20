@@ -2,18 +2,4 @@
 
 Hey guys this is my new blog!
 
-:hp-tags: hubpress, tedkim, James home
-
-
-
-
-
-:hp-image: /covers/cover.png
-
-:published_at: 2017-08-20
-
-
-
-:hp-alt-title: My English Title
-
 
